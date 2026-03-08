@@ -1,2 +1,2 @@
 # solvmanage
-Office management just to keet tasks and capeture info
+Office management application just to keep of tasks and capeture info
